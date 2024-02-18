@@ -97,7 +97,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST["ipAddress"])) {
 
         .btn-primary:hover {
             background-color: #5599ff; 
-            transform: scale(1.02); 
+            transform: scale(1.01); 
         }
 
         .form-control {
